@@ -1,7 +1,7 @@
   Episode #     Prod #      Air Date   Titles
 _____ ______ ___________  ___________ ___________________________________________
 
-Season 1
+#Season 1
 
 1.     1-1                 17 Dec 89   Simpsons Roasting on an Open Fire
 2.     1-2                 14 Jan 90   Bart the Genius
@@ -17,7 +17,7 @@ Season 1
 12.    1-12                29 Apr 90   Krusty Gets Busted
 13.    1-13                13 May 90   Some Enchanted Evening
 
-Season 2
+#Season 2
 
 14.    2-1                 11 Oct 90   Bart Gets an F
 15.    2-2                 18 Oct 90   Simpson and Delilah
@@ -42,7 +42,7 @@ Season 2
 34.    2-21                09 May 91   Three Men and a Comic Book
 35.    2-22                11 Jul 91   Blood Feud
 
-Season 3
+#Season 3
 
 36.    3-1                 19 Sep 91   Stark Raving Dad
 37.    3-2                 26 Sep 91   Mr. Lisa Goes to Washington
@@ -69,7 +69,7 @@ Season 3
 58.    3-23                07 May 92   Bart's Friend Falls in Love
 59.    3-24                27 Aug 92   Brother, Can You Spare Two Dimes?
 
-Season 4
+#Season 4
 
 60.    4-1                 24 Sep 92   Kamp Krusty
 61.    4-2                 01 Oct 92   A Streetcar Named Marge
@@ -94,7 +94,7 @@ Season 4
 80.    4-21                06 May 93   Marge in Chains
 81.    4-22                13 May 93   Krusty Gets Kancelled
 
-Season 5
+#Season 5
 
 82.    5-1                 30 Sep 93   Homer's Barbershop Quartet
 83.    5-2                 07 Oct 93   Cape Feare
@@ -119,7 +119,7 @@ Season 5
 102.   5-21                12 May 94   Lady Bouvier's Lover
 103.   5-22                19 May 94   Secrets of a Successful Marriage
 
-Season 6
+#Season 6
 
 104.   6-1                 04 Sep 94   Bart of Darkness
 105.   6-2                 11 Sep 94   Lisa's Rival
@@ -147,7 +147,7 @@ Season 6
 127.   6-24                14 May 95   Lemon of Troy
 128.   6-25                21 May 95   Who Shot Mr. Burns? (1)
 
-Season 7
+#Season 7
 
 129.   7-1                 17 Sep 95   Who Shot Mr. Burns? (2)
 130.   7-2                 24 Sep 95   Radioactive Man
@@ -175,7 +175,7 @@ Season 7
 152.   7-24                19 May 96   Homerpalooza
 153.   7-25                19 May 96   Summer of 4 ft. 2
 
-Season 8
+#Season 8
 
 154.   8-1                 27 Oct 96   Treehouse of Horror VII
 155.   8-2                 03 Nov 96   You Only Move Twice
@@ -203,7 +203,7 @@ Season 8
 177.   8-24                11 May 97   The Simpsons Spin-Off Showcase
 178.   8-25                18 May 97   The Secret War of Lisa Simpson
 
-Season 9
+#Season 9
 
 179.   9-1                 21 Sep 97   The City of New York vs. Homer Simpson
 180.   9-2                 28 Sep 97   The Principal and the Pauper
@@ -231,7 +231,7 @@ Season 9
 202.   9-24                10 May 98   Lost Our Lisa
 203.   9-25                17 May 98   Natural Born Kissers
 
-Season 10
+#Season 10
 
 204.   10-1                23 Aug 98   Lard of the Dance
 205.   10-2                20 Sep 98   The Wizard of Evergreen Terrace
@@ -257,7 +257,7 @@ Season 10
 225.   10-22               09 May 99   They Saved Lisa's Brain
 226.   10-23               16 May 99   30 Minutes Over Tokyo
 
-Season 11
+#Season 11
 
 227.   11-1                26 Sep 99   Beyond Blunderdome
 228.   11-2                03 Oct 99   Brother's Little Helper
@@ -282,7 +282,7 @@ Season 11
 247.   11-21               14 May 00   It's a Mad, Mad, Mad, Mad Marge
 248.   11-22               21 May 00   Behind the Laughter
 
-Season 12
+#Season 12
 
 249.   12-1                01 Nov 00   Treehouse of Horror XI
 250.   12-2                05 Nov 00   A Tale of Two Springfields
@@ -306,7 +306,7 @@ Season 12
 268.   12-20               13 May 01   Children of a Lesser Clod
 269.   12-21               20 May 01   Simpsons Tall Tales
 
-Season 13
+#Season 13
 
 270.   13-1                06 Nov 01   Treehouse of Horror XII
 271.   13-2                11 Nov 01   The Parent Rap
@@ -331,7 +331,7 @@ Season 13
 290.   13-21               19 May 02   Frying Game
 291.   13-22               22 May 02   Papa's Got a Brand New Badge
 
-Season 14
+#Season 14
 
 292.   14-1                03 Nov 02   Treehouse of Horror XIII
 293.   14-2                10 Nov 02   How I Spent My Strummer Vacation
@@ -356,7 +356,7 @@ Season 14
 312.   14-21               18 May 03   The Bart of War
 313.   14-22               18 May 03   Moe Baby Blues
 
-Season 15
+#Season 15
 
 314.   15-1                02 Nov 03   Treehouse of Horror XIV
 315.   15-2                09 Nov 03   My Mother the Carjacker
@@ -381,7 +381,7 @@ Season 15
 334.   15-21               16 May 04   Bart-Mangled Banner
 335.   15-22               23 May 04   Fraudcast News
 
-Season 16
+#Season 16
 
 336.   16-1                07 Nov 04   Treehouse of Horror XV
 337.   16-2                14 Nov 04   All's Fair in Oven War
@@ -405,7 +405,7 @@ Season 16
 355.   16-20               15 May 05   Home Away from Homer
 356.   16-21               15 May 05   Father, Son and Holy Guest-Star
 
-Season 17
+#Season 17
 
 357.   17-1                11 Sep 05   Bonfire of the Manatees
 358.   17-2                18 Sep 05   The Girl Who Slept Too Little
@@ -430,7 +430,7 @@ Season 17
 377.   17-21               14 May 06   The Monkey Suit
 378.   17-22               21 May 06   Marge and Homer Turn a Couple Play
 
-Season 18
+#Season 18
 
 379.   18-1                10 Sep 06   The Mook, the Chef, the Wife and Her Homer
 380.   18-2                17 Sep 06   Jazzy and the Pussycats
@@ -455,7 +455,7 @@ Season 18
 399.   18-21               20 May 07   24 Minutes
 400.   18-22               20 May 07   You Kent Always Say What You Want
 
-Season 19
+#Season 19
 
 401.   19-1                23 Sep 07   He Loves to Fly and He D'ohs
 402.   19-2                30 Sep 07   Homer of Seville
@@ -478,7 +478,7 @@ Season 19
 419.   19-19               11 May 08   Mona Leaves-a
 420.   19-20               18 May 08   All About Lisa
 
-Season 20
+#Season 20
 
 421.   20-1                28 Sep 08   Sex, Pies and Idiot Scrapes
 422.   20-2                05 Oct 08   Lost Verizon
