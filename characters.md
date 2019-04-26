@@ -1,7 +1,7 @@
-A
+# A
 Eleanor Abernathy (Crazy Cat Lady)
 Jeff Albertson (Comic Book Guy)
-B
+# B
 Jasper Beardley
 Blue-Haired Lawyer
 Wendell Borton
@@ -10,50 +10,50 @@ Patty Bouvier
 Selma Bouvier
 Kent Brockman
 Charles Montgomery Burns
-C
+# C
 Carl Carlson
 Superintendent Chalmers
-D
+# D
 Marion Anthony "Fat Tony" D'Amico
 Disco Stu
 Barry Duffman
-E
+# E
 Eddie
-F
+# F
 Maude Flanders
 Ned Flanders
 Rod Flanders
 Todd Flanders
 John Frink
-G
+# G
 Groundskeeper Willie
 Barney Gumbel
 Gil Gunderson
-H
+# H
 Constance Harm
 Bernice Hibbert
 Julius Hibbert
 Elizabeth Hoover
 Lionel Hutz
-I
-J
+# I
+# J
 Snake Jailbird
 Jimbo Jones
-K
+# K
 Kang
 Kearney
 Kodos
 Edna Krabappel
 Hershel Krustofski
 Cookie Kwan
-L
+# L
 Dewey Largo
 Lenny Leonard
 Lou
 Helen Lovejoy
 Rev. Timothy Lovejoy
 Lunchlady Doris
-M
+# M
 Otto Mann
 Horatio McCallister (Sea-Captain)
 Troy McClure
@@ -62,21 +62,21 @@ Marvin Monroe
 Mr. Teeny
 Nelson Muntz
 Bleeding Gums Murphy
-N
+# N
 Lindsey Naegle
 Apu Nahasapeemapetilon
 Manjula Nahasapeemapetilon
 Sanjay Nahasapeemapetilon
-O
+# O
 Colonel Antoine "Tex" O'Hara (Rich Texan)
-P
+# P
 Jeremy Peterson (Squeaky Voiced Teen)
 Arnie Pie
 Herbert Powell
-Q
-R
+# Q
+# R
 Nick Riviera
-S
+# S
 Santa's Little Helper
 Sherri and Terri
 Abe Simpson
@@ -96,21 +96,21 @@ Cletus Spuckler
 Dolph Starbeam
 Lucius Sweet
 Moe Szyslak
-T
+# T
 Drederick Tatum
 "Sideshow" Robert Terwilliger
-U
-V
+# U
+# V
 "Sideshow" Melvin van Horne
 Kirk Van Houten
 Luann Van Houten
 Milhouse Van Houten
-W
+# W
 Clancy Wiggum
 Ralph Wiggum
 Sarah Wiggum
 Rainier Wolfcastle
-X
-Y
-Z
+# X
+# Y
+# Z
 Artie Ziff
