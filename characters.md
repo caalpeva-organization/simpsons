@@ -86,8 +86,6 @@ Lisa Simpson
 Maggie Simpson
 Marge Simpson
 Mona Simpson
-Patty Simpson
-Selmaa Simpson
 Agnes Skinner
 Seymour Skinner
 Waylon Smithers
