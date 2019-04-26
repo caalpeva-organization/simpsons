@@ -1,6 +1,3 @@
-  Episode #     Prod #      Air Date   Titles
-_____ ______ ___________  ___________ ___________________________________________
-
 #Season 1
 
 1.     1-1                 17 Dec 89   Simpsons Roasting on an Open Fire
