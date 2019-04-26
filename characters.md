@@ -24,7 +24,6 @@ Maude Flanders
 Ned Flanders
 Rod Flanders
 Todd Flanders
-John Frink
 # G
 Groundskeeper Willie
 Barney Gumbel
